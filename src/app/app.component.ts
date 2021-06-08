@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+  title:string = 'CounterAppAngular';
+  number:number=10;
+
+
+  calculate(value: number){
+    this.number+=value;
+  }
+
 }
