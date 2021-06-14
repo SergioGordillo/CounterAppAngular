@@ -17,11 +17,11 @@
         <h3>Add new character</h3>
         <hr/>
 
-        <form>
+        <form (ngSubmit)="add()">
             <input type="text" placeholder="Character's name">
             <input type="number"placeholder="Power">
 
-            <button>Add</button>
+            <button type="submit">Add</button>
         </form>
     </div>
 
