@@ -1,5 +1,7 @@
+
 import { Component} from '@angular/core';
 import { Character } from '../interfaces/dbz.interfaces';
+import { DbzService } from './../services/dbz.service';
 
 
 
@@ -24,4 +26,11 @@ export class MainPageComponent{
     power: 6700
 }
 
+  addNewCharacter(character:Character){
+    this.characters.push(character);
+  }
+
+  constructor(private DbzService:DbzService){
+
+  }
 }

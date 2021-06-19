@@ -11,9 +11,9 @@
 
     <div class="col">
         <app-add 
-            [characters]="characters" 
             [new]="new"
-            >
+            (onNewCharacter)="addNewCharacter($event)"
+        >
     </app-add>
     </div>
 
