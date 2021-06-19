@@ -4,25 +4,17 @@
 <div class="row">
 
     <div class="col">
-        <h3>Characters</h3>
-        <hr/>
-        <ul>
-            <li *ngFor="let character of characters; let i=index">
-                {{i + 1}} - {{character.name}} - {{character.power | number}}
-            </li>
-        </ul>
+        <app-characters 
+            [characters]="characters">   
+        </app-characters>
     </div>
 
     <div class="col">
-        <h3>Add <small>{{new.name}}</small></h3>
-        <hr/>
-
-        <form (ngSubmit)="add()">
-            <input type="text" placeholder="Character's name" name="name" [(ngModel)]="new.name">
-            <input type="number"placeholder="Power" name="power" [(ngModel)]="new.power">
-
-            <button type="submit">Add</button>
-        </form>
+        <app-add 
+            [characters]="characters" 
+            [new]="new"
+            >
+    </app-add>
     </div>
 
 
