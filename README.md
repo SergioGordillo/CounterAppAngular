@@ -8,7 +8,7 @@
 
 # Which technologies did I use to develop these apps? :thinking:
 
-They are three little apps to practice Angular. I only use Angular (obviously with TS), to develop them. <br>
+They are three little apps to practice Angular. I only used Angular (obviously with TS), to develop them. <br>
 
 # Which is the purpose of these web app? :thinking:
 
