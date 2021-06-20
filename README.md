@@ -1,3 +1,26 @@
+# What can you do with these three apps? :thinking:
+
+:heart: The first one is a Counter App. <br>
+:heart: The second one is an app when you can check information about heroes. <br>
+:heart: The third one is an app where you can add to a list information about Dragon Ball Z characters. <br>
+
+# Which technologies did I use to develop these apps? :thinking:
+
+They are three little apps to practice Angular. I only use Angular (obviously with TS), to develop them. <br>
+
+# Which is the purpose of these web app? :thinking:
+
+They are three web apps I made based on Fernando Herrera Angular course 🧐. I havent made barely changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the basic Angular knowledge 🤓. I know the styles are very basic, but I just focused on Angular stuff. I learnt with these projects about:
+
+:heart: Angular folder structure.  <br>
+:heart: One way and two way data binding. <br>
+:heart: How to create components, modules, services etc.  <br>
+:heart: About ngFor, ngIf, nfIfElse, ngTemplate, FormsModule, ngModel... <br>
+:heart: Using @Input, @Outputs... <br>
+
+They are three web apps in one projects, and they are simple apps too, that is the reason I havent deployed them.
+
+
 # Counter App Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
