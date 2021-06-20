@@ -1,3 +1,5 @@
+<img src=https://github.com/SergioGordillo/CounterAppAngular/blob/main/dragon-ball-z-app.png alt="Home of DragonBallZApp"/>
+
 # What can you do with these three apps? :thinking:
 
 :heart: The first one is a Counter App. <br>
