@@ -10,7 +10,7 @@
 
 They are three little apps to practice Angular. I only used Angular (obviously with TS), to develop them. <br>
 
-# Which is the purpose of these web app? :thinking:
+# Which is the purpose of these web apps? :thinking:
 
 They are three web apps I made based on Fernando Herrera Angular course 🧐. I havent made barely changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the basic Angular knowledge 🤓. I know the styles are very basic, but I just focused on Angular stuff. I learnt with these projects about:
 
@@ -20,8 +20,7 @@ They are three web apps I made based on Fernando Herrera Angular course 🧐. I 
 :heart: About ngFor, ngIf, nfIfElse, ngTemplate, FormsModule, ngModel... <br>
 :heart: Using @Input, @Outputs... <br>
 
-They are three web apps in one projects, and they are simple apps too, that is the reason I havent deployed them.
-
+They are three web apps in one project, and they are simple apps, that is the reason I haven't deployed them.
 
 # Counter App Angular
 
